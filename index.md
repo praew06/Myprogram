@@ -42,4 +42,8 @@
 
 # แนะนำเพื่อน
 
-![Image]
+ชื่อ กรวรินทร์ พุทธวงค์ 
+ชื่อเล่น น้ำหวาน
+เป็นดาวคณะ
+
+![Image](https://raw.githubusercontent.com/praew06/Myprogram/master/40385270_285992638894225_4461693794672181248_n.jpg)
