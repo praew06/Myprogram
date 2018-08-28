@@ -36,4 +36,5 @@
 
 # ส่งงานรูปแผนผัง
 
+![Image](https://raw.githubusercontent.com/praew06/Myprogram/master/40208728_263358837638722_9152103007402328064_n.jpg)
 
